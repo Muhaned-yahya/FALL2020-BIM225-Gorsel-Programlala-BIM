@@ -17,7 +17,7 @@ namespace ProjeDemoBIM
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //malloc
-            Application.Run(new CurrencyConverter());
+            Application.Run(new Form2());
         }
     }
 }
